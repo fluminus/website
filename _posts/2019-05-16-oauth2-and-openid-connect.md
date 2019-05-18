@@ -5,6 +5,10 @@ date: 2019-05-16 17:45 +0800
 categories: fluminus
 ---
 
+This is from the development of (luminus_api)[https://github.com/fluminus/luminus_api], when I was dealing with the OpenID Connect authentication flow.
+
+<!--more-->
+
 # OAuth 2 and OpenID Connect
 
 **Delegated authorization**: How can I let a website access my data without giving my password? 
